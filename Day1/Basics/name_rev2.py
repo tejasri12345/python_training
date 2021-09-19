@@ -1,0 +1,5 @@
+first_name = input("Enter first name:")
+last_name = input("Enter last name: ")
+a = (last_name, first_name)
+print(list(a))
+print(tuple(a))
